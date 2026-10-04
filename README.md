@@ -1,76 +1,43 @@
-# Hi, I'm Sahil 👋
+# Hi, I'm Sahil Sharma
 
-🚀 Automation Architect | Resilience Engineer | Infrastructure QA Specialist  
+SDET at **Antier Solutions** with 5.5+ years of experience in test automation, internal QA tooling, and performance & security testing for fintech and blockchain platforms.
 
-I build production-grade automation systems that validate scalability, infrastructure resilience, and failure recovery in blockchain and Web2 environments.
+I like building tools that make testing faster, not just running tests.
 
----
+## What I work on
 
-## 🔥 What I Do
+- **Test automation** — Playwright, Selenium (Page Object Model), REST-Assured, Postman
+- **Performance & reliability** — k6 and Locust load testing, chaos testing, P90/P95/P99 latency analysis
+- **Security testing** — OWASP Top 10, SQL injection, JWT/auth bypass, rate limiting on production APIs
+- **Blockchain QA** — RPC health monitoring, smart contract validation, DeFi wallet flows
+- **AI/LLM testing** — prompt regression, hallucination detection, AI-assisted test generation
 
-- Multi-Project API Automation
-- RPC Infrastructure Validation
-- Chaos Engineering (App + Infra)
-- Ramp-Up Performance Testing
-- Infrastructure-Level Recovery Validation
-- Real-Time Observability & Alerting Systems
+## Featured project
 
-I design systems that don't just test functionality — they validate production survivability.
+### [QAForge MCP](https://github.com/sahil804-ps/qaforge-mcp) · [PyPI](https://pypi.org/project/qaforge-mcp/)
 
----
+An open-source MCP server with 12 QA engineering tools, written in Python:
 
-## 🧠 Engineering Focus
+- Test case generation from FRDs and Swagger specs
+- Statistical flaky-test detection across JUnit XML runs
+- OWASP Top 10 security test generation (Postman + k6)
+- Cross-browser diffing with Playwright
+- WCAG 2.1 accessibility audits with axe-core
+- k6 performance baselines with regression alerts
+- Regression impact analysis from git diffs
 
-- Automation-First Architecture
-- Failure-Aware Design
-- Infrastructure Disruption Simulation
-- Resilience Scoring & Recovery Validation
-- Parallel Multi-Project Execution
+```bash
+pip install qaforge-mcp
+```
 
----
+## Tech stack
 
-## 🛠 Tech Stack
+Python · JavaScript/TypeScript · Playwright · Selenium · k6 · Locust · Docker · GitHub Actions · Jenkins · Redis · n8n
 
-Python  
-Selenium  
-K6  
-Docker  
-YAML Config Systems  
-SSH Automation  
-JSON-RPC  
-Google Chat Webhooks  
-Linux Server Control  
+## Certifications
 
----
+ISTQB Advanced Level Test Manager (CTAL-TM)
 
-## 📂 Featured Repositories
+## Connect
 
-🔹 Automation & Resilience Engineering Portfolio  
-Advanced multi-layer validation framework including chaos engineering and infrastructure resilience testing.
-
-🔹 AI-Powered Test Case Executor  
-Natural language-driven automation engine powered by GPT integration.
-
-🔹 RPC Health & Regression Platform  
-Infrastructure-level RPC monitoring and failure validation system.
-
----
-
-## 🎯 Currently Exploring
-
-- Kubernetes-Level Chaos
-- Distributed Load Clusters
-- CI/CD Resilience Gates
-- Cloud-Native Observability
-
----
-
-## 📫 Connect With Me
-
-LinkedIn: www.linkedin.com/in/sahil-sharma-b685bb15a
-
----
-
-### ⚡ Engineering Philosophy
-
-Build systems that survive failure — not just pass tests.
+[LinkedIn](https://www.linkedin.com/in/sahil-sharma-b685bb15a)
